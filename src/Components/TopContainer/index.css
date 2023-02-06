@@ -1,0 +1,159 @@
+.top-container{
+    font-family: sans-serif;
+    padding: 25px 150px 100px 150px;
+    background-size: cover;
+    background: linear-gradient(247.18deg, rgba(16, 63, 140, 0.1) -11.45%, rgba(19, 71, 158, 0.1) 23.39%, rgba(24, 117, 207, 0.1) 83.34%);
+
+}
+
+.logo{
+width: 250px;
+height: 90px;
+}
+
+.list-item{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    list-style: none;
+    margin-right: 20px;
+}
+
+.list-container{
+    display: flex;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.login-button{
+    background: linear-gradient(247.5deg, #FD8231 8.14%, #FF6E0E 83.6%);
+    border-radius: 85px;
+    padding: 10px;
+    border-width: 0px;
+    color: #ffffff;
+    font-weight: 600;
+    min-width: 150px;
+    box-shadow: -1px 8px 15px gray;
+    font-size: 15px;
+}
+
+.en{
+    color: #FF6E0E;
+}
+
+
+.input-container{
+    background: #FFFFFF;
+    border: 1px solid #C9C9C9;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    width: 480px;
+    height: 20px;
+    margin-bottom: 20px;
+    box-shadow: -1px 8px 15px gray;
+}
+
+.input-text{
+    color: #C9C9C9;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.icon{
+    color: #FF6E0E;
+}
+
+.question{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    text-decoration-line: underline;
+    color: #FF6E0E;
+   width: 120%;
+}
+
+.shop{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 0px;
+    z-index: 10;
+}
+
+.tax{
+    color: #FD8231;
+    text-align: right;
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+
+.robo-container{
+    display: flex;
+    margin-top: 30px;
+}
+
+
+.input-div{
+    margin-right: 100px;
+}
+
+.shipping{
+    position: relative;
+    margin-top: -15px;
+    z-index: -10;
+    width: 65%;
+}
+
+.span{
+    font-size: 25px;
+    border-bottom:2px solid #000000;
+    font-weight: 550;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.box{
+    width: 100%;
+}
+
+
+.get-quote{
+        background: linear-gradient(247.5deg, #FD8231 8.14%, #FF6E0E 83.6%);
+        border-radius: 85px;
+        padding: 20px;
+        border-width: 0px;
+        color: #ffffff;
+        font-weight: 600;
+        min-width: 200px;
+        box-shadow: -1px 8px 15px gray;
+        font-size: 15px;
+        margin-right: 15px;
+}
+
+.stars{
+    display: flex;
+    align-items: center;
+}
+
+.star-img{
+    height: 40px;
+    width: 180px;
+}
+
+.line{
+    position: absolute;
+    left: 173px;
+    top: 550px;
+}
